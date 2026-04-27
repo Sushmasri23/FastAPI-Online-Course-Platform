@@ -7,9 +7,6 @@ Built using **FastAPI**, **Pydantic**, and in-memory data storage.
 
 ---
 
-## Link
-http://127.0.0.1:8000/docs#/
-
 ## Features
 
 ### Course Management
