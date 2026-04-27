@@ -1,13 +1,14 @@
 # FastAPI-Online-Course-Platform
 
-# LearnHub Online Course Platform API
-
 A complete **FastAPI backend project** for managing an online course platform.  
 This project allows users to browse courses, enroll students, manage wishlists, search/filter/sort courses, and handle enrollments.
 
 Built using **FastAPI**, **Pydantic**, and in-memory data storage.
 
 ---
+
+## Link
+http://127.0.0.1:8000/docs#/
 
 ## Features
 
